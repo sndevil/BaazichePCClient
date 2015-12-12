@@ -12,3 +12,13 @@ C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\
 Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Baaziche-PCClient.exe.config
 Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.exe
 Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.pdb
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Baaziche-PCClient.exe
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Baaziche-PCClient.pdb
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Newtonsoft.Json.dll
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\DotRas.xml
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Newtonsoft.Json.xml
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.csprojResolveAssemblyReference.cache
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche.Properties.Resources.resources
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche.SignUp.resources
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.csproj.GenerateResource.Cache
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche.MainForm.resources

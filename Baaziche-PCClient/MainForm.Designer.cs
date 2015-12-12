@@ -1,4 +1,4 @@
-﻿namespace Baaziche_PCClient
+﻿namespace Baaziche
 {
     partial class MainForm
     {
@@ -35,6 +35,7 @@
             this.Dialer = new DotRas.RasDialer(this.components);
             this.StatusTextBox = new System.Windows.Forms.TextBox();
             this.DisconnectButton = new System.Windows.Forms.Button();
+            this.signUp = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // CreateEntryButton
@@ -94,11 +95,22 @@
             this.DisconnectButton.UseVisualStyleBackColor = true;
             this.DisconnectButton.Click += new System.EventHandler(this.DisconnectButton_Click);
             // 
+            // signUp
+            // 
+            this.signUp.Location = new System.Drawing.Point(258, 265);
+            this.signUp.Name = "signUp";
+            this.signUp.Size = new System.Drawing.Size(75, 23);
+            this.signUp.TabIndex = 4;
+            this.signUp.Text = "Sign Up";
+            this.signUp.UseVisualStyleBackColor = true;
+            this.signUp.Click += new System.EventHandler(this.signUp_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(345, 329);
+            this.Controls.Add(this.signUp);
             this.Controls.Add(this.DisconnectButton);
             this.Controls.Add(this.StatusTextBox);
             this.Controls.Add(this.DialButton);
@@ -118,6 +130,7 @@
         private DotRas.RasDialer Dialer;
         private System.Windows.Forms.TextBox StatusTextBox;
         private System.Windows.Forms.Button DisconnectButton;
+        private System.Windows.Forms.Button signUp;
     }
 }
 

@@ -2,8 +2,9 @@
 using System.Net;
 using System.Windows.Forms;
 using DotRas;
+using Baaziche;
 
-namespace Baaziche_PCClient
+namespace Baaziche
 {
     public partial class MainForm : Form
     {
@@ -12,6 +13,7 @@ namespace Baaziche_PCClient
         /// </summary>
         public const string EntryName = "VPN Connection1";
 
+        private SignUp signupform;
         /// <summary>
         /// Holds a value containing the handle used by the connection that was dialed.
         /// </summary>
@@ -19,7 +21,9 @@ namespace Baaziche_PCClient
 
         public MainForm()
         {
-            this.InitializeComponent();
+            InitializeComponent();
+            signupform = new SignUp();
+
         }
 
         /// <summary>
@@ -137,6 +141,12 @@ namespace Baaziche_PCClient
                     connection.HangUp();
                 }
             }
+        }
+
+        private void signUp_Click(object sender, EventArgs e)
+        {
+            signupform.ShowDialog();
+            signupform.BringToFront();
         }
     }
 }

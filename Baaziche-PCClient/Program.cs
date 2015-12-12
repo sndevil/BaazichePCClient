@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Baaziche_PCClient
+namespace Baaziche
 {
     static class Program
     {

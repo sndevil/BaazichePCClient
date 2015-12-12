@@ -1,0 +1,14 @@
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche-PCClient.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche_PCClient.MainForm.resources
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche.Properties.Resources.resources
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche-PCClient.csproj.GenerateResource.Cache
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\Baaziche-PCClient.exe.config
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\Baaziche-PCClient.exe
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\Baaziche-PCClient.pdb
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\DotRas.dll
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\DotRas.xml
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche-PCClient.exe
+C:\Program Files (x86)\DotRas SDKs\v1.3\Examples\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Baaziche-PCClient.pdb
+Z:\Downloads\SourceCodes\Baaziche-PCClient\bin\Debug\Baaziche-PCClient.exe.config
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.exe
+Z:\Downloads\SourceCodes\Baaziche-PCClient\obj\Debug\Baaziche-PCClient.pdb
